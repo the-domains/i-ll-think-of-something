@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[I'll think of something.]]></title>
         <description><![CDATA[I'll think of something.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/i-ll-think-of-something/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 03:35:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 05:51:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-ll-think-of-something/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Writer]]></title>
+            <description><![CDATA[<article><h1>Writer</h1><p>Making up stories in my brain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9ac0492666e96c4adf7531a497579a9a7c814cb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/i-ll-think-of-something/writer/index.html</link>
+            <guid isPermaLink="false">e1e11070-003b-4ba7-9df7-f48a1b6a5a17</guid>
+            <pubDate>Tue, 15 Mar 2016 05:51:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Speaker]]></title>
             <description><![CDATA[<article><h1>Speaker</h1><p>Speaking of the future ...</p></article>]]></description>
-            <link>undefinedspeaker/index.html</link>
+            <link>https://thegrid.ai/i-ll-think-of-something/speaker/index.html</link>
             <guid isPermaLink="false">c94127fd-16f4-4f11-a6f3-8b2124f0ab2c</guid>
             <pubDate>Tue, 15 Mar 2016 03:35:22 GMT</pubDate>
         </item>
